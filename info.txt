@@ -1,0 +1,5 @@
+-install vite 
+-install tailwind css 
+-install font 
+-install material tailwind
+-install react router dom 
