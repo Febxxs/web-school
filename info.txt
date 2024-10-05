@@ -1,5 +1,5 @@
 -install vite 
 -install tailwind css 
 -install font 
--install material tailwind
+-install flowbite-react
 -install react router dom 
